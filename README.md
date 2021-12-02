@@ -24,7 +24,8 @@ print(value)
 
 
 ## Output:
-![output](./mathoutput.png)
+![output](./mathoutput.png![mathouput](https://user-images.githubusercontent.com/94184990/144362296-013298d0-7c91-46de-8f3e-ae2f8bc000b7.png)
+)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
